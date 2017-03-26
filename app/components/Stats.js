@@ -4,7 +4,7 @@ class Stats extends React.Component {
     render() {
         return (
             <div>
-          <h1>Stats</h1>
+          <h2>Stats</h2>
         </div>
         )
     }
